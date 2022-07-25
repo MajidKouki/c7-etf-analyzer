@@ -52,7 +52,7 @@ voila etf_analyzer.ipynb
 
 This will deploy the notebook as an interactive web app like the example pictured below.
 
-![Voila Example](./img/voila-1.png)
+![Voila Example](./imgs/voila-1.png)
 
 ---
 
